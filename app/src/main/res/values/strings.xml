@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_popular" translatable="false">Popular</string>
+    <string name="action_rating" translatable="false">Rating</string>
+</resources>
